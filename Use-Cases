@@ -1,0 +1,12 @@
+# Alert Triage
+
+## Scenario
+Suspicious outbound traffic detected.
+
+## Steps Taken
+- Reviewed alert in Security Onion
+- Checked IP reputation
+- Analysed logs
+
+## Result
+Marked as suspicious and escalated.

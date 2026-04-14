@@ -1,1 +1,14 @@
+# Incident Report
 
+## Summary
+Detected unusual network traffic from internal host.
+
+## Investigation
+- Analysed logs in Security Onion
+- Identified suspicious connection
+
+## Action Taken
+Escalated for further analysis.
+
+## Conclusion
+Potential security incident.
